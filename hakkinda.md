@@ -2,11 +2,11 @@
 layout: page
 title: Hakkında
 permalink: /hakkinda/
-subtitle: Ne yaptığnı biliyorsan; Yapma!
+subtitle: "Ne yaptığını biliyorsan; Yapma!"
 #cover-img: /assets/img/
 ---
 
-<omerify.com> bir blog sitesidir. Sitede konu sınırlaması yoktur. Genel olarak amatörce üretilen her türlü içerik bulunmaktadır. Eğlence, arşiv ve boş zamanlarda can sıkıntısını gidermek için yapılan aktivite gibi bir şey.
+`blog.omerify.com` bir blog sitesidir. Sitede konu sınırlaması yoktur. Genel olarak amatörce üretilen her türlü içerik bulunmaktadır. Eğlence, arşiv ve boş zamanlarda can sıkıntısını gidermek için yapılan aktivite gibi bir şey.
 
 Hayatın hızlı akışında olabildiğince özet ve kişisel paylaşımlar çoğunlukla mobil cihazlar kullanılarak yapılmaktadır. Editöryal süreçler işlememektedir. Bu yöntemin hızlı bilgi paylaşımı gibi avantajları olsa da, beraberinde hataları ve eksiklikleri doğurmaktadır. Şimdiden oluşan ve oluşabilecek her türlü hata, eksiklik, yanlışlık, gaf vs için affınızı diliyorum. Yapılan paylaşımlarda kaynağı belirtmeye ve telif haklarına özen gösteriyorum. Buna rağmen bir hatam varsa lütfen bildirin gereğini en kısa zamanda yapacağım.
 

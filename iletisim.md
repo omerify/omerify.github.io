@@ -2,7 +2,7 @@
 layout: page
 title: İletişim
 permalink: /iletisim/
-subtitle: Ne yaptığnı biliyorsan; Yapma!
+subtitle: "Ne yaptığını biliyorsan; Yapma!"
 #cover-img: /assets/img/
 ---
 

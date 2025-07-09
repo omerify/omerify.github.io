@@ -147,7 +147,20 @@ navbar-var-length: false
 #footer-link-col: "#404040"
 #footer-hover-col: "#0085A1"
 
-#chatgpt dark-mode
+#new colours
+page-col: "#F5F5F5"
+text-col: "#333333"
+link-col: "#0077CC"
+hover-col: "#006B85"
+navbar-col: "#D3D3D3"
+navbar-text-col: "#333333"
+navbar-border-col: "#C0C0C0"
+footer-col: "#D3D3D3"
+footer-text-col: "#666666"
+footer-link-col: "#333333"
+footer-hover-col: "#006B85"
+
+#dark-mode
 #page-col: "#1F1F1F"           #Arka planı koyulaştırdık ama tam siyah değil – göz dostu koyu gri
 #text-col: "#DDDDDD"           #Daha açık metin rengi – koyu zeminde okunabilir
 #link-col: "#66A8FF"           #Hafif yumuşatılmış bir mavi – çok parlak değil
@@ -159,32 +172,6 @@ navbar-var-length: false
 #footer-text-col: "#AAAAAA"    #Footer’daki açıklama metinleri için soluk ama okunabilir ton
 #footer-link-col: "#CCCCCC"    #Footer’daki linkler için daha açık ama parlamayan bir gri
 #footer-hover-col: "#66A8FF"   #Hover’da linklerde tutarlılık
-
-#chatgpt
-page-col: "#F5F5F5"            #Beyaz yerine çok açık gri – göz kamaştırmaz
-text-col: "#333333"            #Bir tık daha koyu metin – kontrast arttı, okunabilirlik daha iyi
-link-col: "#0077CC"            #Mavi tonu biraz koyulaştı, gece parlamaz
-hover-col: "#006699"           #Hover rengi de göz yormayacak şekilde yumuşatıldı
-navbar-col: "#DDDDDD"          #Orijinalden biraz daha koyu ama hâlâ açık ton
-navbar-text-col: "#333333"     #Daha iyi kontrast için navbar yazı rengi koyulaştırıldı
-navbar-border-col: "#CCCCCC"   #Border rengi de bir tık koyu – daha belirgin ama rahatsız edici değil
-footer-col: "#DDDDDD"          #Footer için uyumlu, biraz daha koyu bir zemin
-footer-text-col: "#666666"     #Daha yumuşak bir gri – gece ışığında göz yormaz
-footer-link-col: "#333333"     #Footer linkler için koyu gri – net ama parlamıyor
-footer-hover-col: "#0077CC"    #Hover rengi üst kısımla aynı – tutarlılık için
-
-#gemini
-#page-col: "#F5F5F5"
-#text-col: "#333333"
-#link-col: "#0077CC"
-#hover-col: "#006B85"
-#navbar-col: "#D3D3D3"
-#navbar-text-col: "#333333"
-#navbar-border-col: "#C0C0C0"
-#footer-col: "#D3D3D3"
-#footer-text-col: "#666666"
-#footer-link-col: "#333333"
-#footer-hover-col: "#006B85"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour

@@ -148,30 +148,30 @@ navbar-var-length: false
 #footer-hover-col: "#0085A1"
 
 #chatgpt
-page-col: "#1F1F1F"           #Arka planı koyulaştırdık ama tam siyah değil – göz dostu koyu gri
-text-col: "#DDDDDD"           #Daha açık metin rengi – koyu zeminde okunabilir
-link-col: "#66A8FF"           #Hafif yumuşatılmış bir mavi – çok parlak değil
-hover-col: "#88BFFF"          #Link hover’da biraz daha belirginlik ama yine yumuşak
-navbar-col: "#2A2A2A"         #Navigasyon için biraz daha açık koyu ton
-navbar-text-col: "#DDDDDD"    #Menü yazıları da açık tonda
-navbar-border-col: "#444444"  #Menü alt çizgisi için zarif bir kontrast
-footer-col: "#2A2A2A"         #Footer'ı da navbar ile uyumlu yaptık
-footer-text-col: "#AAAAAA"    #Footer’daki açıklama metinleri için soluk ama okunabilir ton
-footer-link-col: "#CCCCCC"    #Footer’daki linkler için daha açık ama parlamayan bir gri
-footer-hover-col: "#66A8FF"   #Hover’da linklerde tutarlılık
+#page-col: "#1F1F1F"           #Arka planı koyulaştırdık ama tam siyah değil – göz dostu koyu gri
+#text-col: "#DDDDDD"           #Daha açık metin rengi – koyu zeminde okunabilir
+#link-col: "#66A8FF"           #Hafif yumuşatılmış bir mavi – çok parlak değil
+#hover-col: "#88BFFF"          #Link hover’da biraz daha belirginlik ama yine yumuşak
+#navbar-col: "#2A2A2A"         #Navigasyon için biraz daha açık koyu ton
+#navbar-text-col: "#DDDDDD"    #Menü yazıları da açık tonda
+#navbar-border-col: "#444444"  #Menü alt çizgisi için zarif bir kontrast
+#footer-col: "#2A2A2A"         #Footer'ı da navbar ile uyumlu yaptık
+#footer-text-col: "#AAAAAA"    #Footer’daki açıklama metinleri için soluk ama okunabilir ton
+#footer-link-col: "#CCCCCC"    #Footer’daki linkler için daha açık ama parlamayan bir gri
+#footer-hover-col: "#66A8FF"   #Hover’da linklerde tutarlılık
 
 #gemini
-#page-col: "#121212"           #Saf siyah yerine, gözü daha az yoran ve derinlik hissi veren koyu bir gri tonu.
-#text-col: "#E0E0E0"           #Koyu arka plan üzerinde yüksek kontrast ve rahat okuma sağlayan, saf beyaza yakın açık bir gri.
-#link-col: "#3399FF"           #Orijinal maviye sadık kalarak, koyu arka planda daha canlı ve dikkat çekici bir ton.
-#hover-col: "#00A5C4"          #Bağlantının üzerine gelindiğinde belirgin bir şekilde renk değiştirmesi için biraz daha parlak bir turkuaz.
-#navbar-col: "#1E1E1E"         #Ana arka plandan bir ton daha açık, modern ve katmanlı bir görünüm için hafif bir ayrım sağlayan koyu gri.
-#navbar-text-col: "#E0E0E0"    #Navigasyon barındaki metinlerin de ana metinle tutarlı ve okunaklı olmasını sağlar.
-#navbar-border-col: "#333333"  #Navigasyon barını ana içerikten ayıran, keskin olmayan, yumuşak bir sınır çizgisi.
-#footer-col: "#1E1E1E"         #Navigasyon barı ile tutarlı, sayfanın alt kısmını belirginleştiren bir renk.
-#footer-text-col: "#A0A0A0"    #Alt bilgideki ikincil metinler için ana metinden daha sönük ama hala okunaklı bir gri tonu.
-#footer-link-col: "#CCCCCC"    #Alt bilgideki bağlantılar için, normal metinden ayırt edilecek kadar parlak bir gri.
-#footer-hover-col: "#00A5C4"   #Alt bilgi bağlantılarının üzerine gelindiğinde ana bağlantılarla tutarlı bir vurgu rengi.
+page-col: "#121212"           #Saf siyah yerine, gözü daha az yoran ve derinlik hissi veren koyu bir gri tonu.
+text-col: "#E0E0E0"           #Koyu arka plan üzerinde yüksek kontrast ve rahat okuma sağlayan, saf beyaza yakın açık bir gri.
+link-col: "#3399FF"           #Orijinal maviye sadık kalarak, koyu arka planda daha canlı ve dikkat çekici bir ton.
+hover-col: "#00A5C4"          #Bağlantının üzerine gelindiğinde belirgin bir şekilde renk değiştirmesi için biraz daha parlak bir turkuaz.
+navbar-col: "#1E1E1E"         #Ana arka plandan bir ton daha açık, modern ve katmanlı bir görünüm için hafif bir ayrım sağlayan koyu gri.
+navbar-text-col: "#E0E0E0"    #Navigasyon barındaki metinlerin de ana metinle tutarlı ve okunaklı olmasını sağlar.
+navbar-border-col: "#333333"  #Navigasyon barını ana içerikten ayıran, keskin olmayan, yumuşak bir sınır çizgisi.
+footer-col: "#1E1E1E"         #Navigasyon barı ile tutarlı, sayfanın alt kısmını belirginleştiren bir renk.
+footer-text-col: "#A0A0A0"    #Alt bilgideki ikincil metinler için ana metinden daha sönük ama hala okunaklı bir gri tonu.
+footer-link-col: "#CCCCCC"    #Alt bilgideki bağlantılar için, normal metinden ayırt edilecek kadar parlak bir gri.
+footer-hover-col: "#00A5C4"   #Alt bilgi bağlantılarının üzerine gelindiğinde ana bağlantılarla tutarlı bir vurgu rengi.
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour

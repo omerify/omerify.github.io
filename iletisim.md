@@ -1,15 +1,15 @@
 ---
 layout: page
 title: İletişim
-#permalink: /iletisim/
-subtitle: Hayatın mobil yansıması 📱
-#cover-img: /assets/img/mk-logo/pixabay-smartphone-407108_1920.jpg
+permalink: /iletisim/
+subtitle: İletişim Bilgileri
+#cover-img: /assets/img/
 ---
 
 İletişim için en iyi yöntem e-posta adresim.
 Sosyal medya hesaplarından takip etmek isterseniz size uygun bir tane mutlaka vardır.
 
-![](/assets/img/mk-logo/mk-avatar-icon-200.png)
+![](/assets/img/logo/omerify-logo-192.png)
 
 - **E-mail:** [omerify@gmail.com](mailto:omerify@gmail.com)
 - **Instagram:** [https://instagram.com/omerify](https://instagram.com/omerify)

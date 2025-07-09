@@ -9,8 +9,6 @@ subtitle: İletişim Bilgileri
 İletişim için en iyi yöntem e-posta adresim.
 Sosyal medya hesaplarından takip etmek isterseniz size uygun bir tane mutlaka vardır.
 
-![](/assets/img/logo/omerify-logo-192.png)
-
 - **E-mail:** [omerify@gmail.com](mailto:omerify@gmail.com)
 - **Instagram:** [https://instagram.com/omerify](https://instagram.com/omerify)
 - **YouTube:** [https://youtube.com/omerify](https://youtube.com/omerify)

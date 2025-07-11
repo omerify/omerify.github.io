@@ -7,10 +7,11 @@ subtitle: "Ne yaptığını biliyorsan; Yapma!"
 ---
 
 İletişim için en iyi yöntem e-posta adresim.
-Sosyal medya hesaplarından takip etmek isterseniz size uygun bir tane mutlaka vardır.
+Sosyal medya platformları açık hava tımarhanesine döndüğü için aktif kullanmıyorum, nadiren bakıyorum. Ben yine de takip etmek istiyorum diyenler için buyrun:
 
 - **E-mail:** [omerify@gmail.com](mailto:omerify@gmail.com)
 - **Instagram:** [https://instagram.com/omerify](https://instagram.com/omerify)
+- **Facebook:** [https://facebook.com/omerify](https://facebook.com/omerify)
 - **YouTube:** [https://youtube.com/omerify](https://youtube.com/omerify)
 - **TikTok:** [https://tiktok.com/@omerify](https://tiktok.com/@omerify)
 - **Spotify Podcast:** [https://creators.spotify.com/pod/show/omerify](https://creators.spotify.com/pod/show/omerify)

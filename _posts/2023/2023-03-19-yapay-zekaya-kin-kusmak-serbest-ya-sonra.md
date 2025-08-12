@@ -11,7 +11,6 @@ tags:
   - "gpt-4"
   - "meslekler"
   - "openai"
-  - "seyir-defteri"
   - "teknoloji"
   - "yapay-zeka"
   - "yapay-zekanin-gelecegi"

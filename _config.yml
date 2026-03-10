@@ -135,6 +135,19 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
+#deneme-mavi
+page-col: "#0B131F" # Gece mavisi zemin, gözü yormayan yumuşak bir karanlık
+text-col: "#D2DCE6" # Saf beyaz yerine kırık, okuması kolay açık gri-mavi
+link-col: "#5DA9E9" # Metinle karışmayacak, net ve parlak bir mavi
+hover-col: "#74F2CE" # Logodaki üst turkuaz/nane yeşili şerit (Link vurguları için harika bir kontrast)
+navbar-col: "#164E80" # Logodaki en alt lacivert şeridin tam rengi
+navbar-text-col: "#FFFFFF" # Logodaki "HW" yazısı gibi net beyaz
+navbar-border-col: "#1D64A3" # Menüyü sayfadan kibarca ayıran, bir ton açık mavi
+footer-col: "#070C14" # Sayfa zemininden bir tık daha koyu, derinlik katan gece mavisi
+footer-text-col: "#8A9BAE" # Arka planda kalması gereken, dikkati dağıtmayan footer metni
+footer-link-col: "#B0C4DE" # Footer içi sakin link rengi
+footer-hover-col: "#EE7B3C" # Logodaki orta turuncu şerit (Footer linkleri için tatlı bir sürpriz vurgu)
+
 #page-col: "#FFFFFF"
 #text-col: "#404040"
 #link-col: "#008AFF"
@@ -159,19 +172,6 @@ navbar-var-length: false
 #footer-text-col: "#666666"
 #footer-link-col: "#333333"
 #footer-hover-col: "#006B85"
-
-#deneme-mavi
-page-col: "#0B131F" # Gece mavisi zemin, gözü yormayan yumuşak bir karanlık
-text-col: "#D2DCE6" # Saf beyaz yerine kırık, okuması kolay açık gri-mavi
-link-col: "#5DA9E9" # Metinle karışmayacak, net ve parlak bir mavi
-hover-col: "#74F2CE" # Logodaki üst turkuaz/nane yeşili şerit (Link vurguları için harika bir kontrast)
-navbar-col: "#164E80" # Logodaki en alt lacivert şeridin tam rengi
-navbar-text-col: "#FFFFFF" # Logodaki "HW" yazısı gibi net beyaz
-navbar-border-col: "#1D64A3" # Menüyü sayfadan kibarca ayıran, bir ton açık mavi
-footer-col: "#070C14" # Sayfa zemininden bir tık daha koyu, derinlik katan gece mavisi
-footer-text-col: "#8A9BAE" # Arka planda kalması gereken, dikkati dağıtmayan footer metni
-footer-link-col: "#B0C4DE" # Footer içi sakin link rengi
-footer-hover-col: "#EE7B3C" # Logodaki orta turuncu şerit (Footer linkleri için tatlı bir sürpriz vurgu)
 
 
 # Alternatively, the navbar, footer, and page background can be set to an image

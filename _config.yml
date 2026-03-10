@@ -148,30 +148,31 @@ navbar-var-length: false
 #footer-hover-col: "#0085A1"
 
 #new colours
-page-col: "#F5F5F5"
-text-col: "#333333"
-link-col: "#0077CC"
-hover-col: "#006B85"
-navbar-col: "#D3D3D3"
-navbar-text-col: "#333333"
-navbar-border-col: "#C0C0C0"
-footer-col: "#D3D3D3"
-footer-text-col: "#666666"
-footer-link-col: "#333333"
-footer-hover-col: "#006B85"
+#page-col: "#F5F5F5"
+#text-col: "#333333"
+#link-col: "#0077CC"
+#hover-col: "#006B85"
+#navbar-col: "#D3D3D3"
+#navbar-text-col: "#333333"
+#navbar-border-col: "#C0C0C0"
+#footer-col: "#D3D3D3"
+#footer-text-col: "#666666"
+#footer-link-col: "#333333"
+#footer-hover-col: "#006B85"
 
-#dark-mode
-#page-col: "#1F1F1F"           #Arka planı koyulaştırdık ama tam siyah değil – göz dostu koyu gri
-#text-col: "#DDDDDD"           #Daha açık metin rengi – koyu zeminde okunabilir
-#link-col: "#66A8FF"           #Hafif yumuşatılmış bir mavi – çok parlak değil
-#hover-col: "#88BFFF"          #Link hover’da biraz daha belirginlik ama yine yumuşak
-#navbar-col: "#2A2A2A"         #Navigasyon için biraz daha açık koyu ton
-#navbar-text-col: "#DDDDDD"    #Menü yazıları da açık tonda
-#navbar-border-col: "#444444"  #Menü alt çizgisi için zarif bir kontrast
-#footer-col: "#2A2A2A"         #Footer'ı da navbar ile uyumlu yaptık
-#footer-text-col: "#AAAAAA"    #Footer’daki açıklama metinleri için soluk ama okunabilir ton
-#footer-link-col: "#CCCCCC"    #Footer’daki linkler için daha açık ama parlamayan bir gri
-#footer-hover-col: "#66A8FF"   #Hover’da linklerde tutarlılık
+#deneme-mavi
+page-col: "#0B131F" # Gece mavisi zemin, gözü yormayan yumuşak bir karanlık
+text-col: "#D2DCE6" # Saf beyaz yerine kırık, okuması kolay açık gri-mavi
+link-col: "#5DA9E9" # Metinle karışmayacak, net ve parlak bir mavi
+hover-col: "#74F2CE" # Logodaki üst turkuaz/nane yeşili şerit (Link vurguları için harika bir kontrast)
+navbar-col: "#164E80" # Logodaki en alt lacivert şeridin tam rengi
+navbar-text-col: "#FFFFFF" # Logodaki "HW" yazısı gibi net beyaz
+navbar-border-col: "#1D64A3" # Menüyü sayfadan kibarca ayıran, bir ton açık mavi
+footer-col: "#070C14" # Sayfa zemininden bir tık daha koyu, derinlik katan gece mavisi
+footer-text-col: "#8A9BAE" # Arka planda kalması gereken, dikkati dağıtmayan footer metni
+footer-link-col: "#B0C4DE" # Footer içi sakin link rengi
+footer-hover-col: "#EE7B3C" # Logodaki orta turuncu şerit (Footer linkleri için tatlı bir sürpriz vurgu)
+
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour

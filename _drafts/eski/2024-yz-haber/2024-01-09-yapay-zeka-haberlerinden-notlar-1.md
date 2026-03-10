@@ -71,7 +71,7 @@ Ayrıca yazıya göre uzmanlar bu yıl için yapay zeka tarafından üretilen **
 
 * * *
 
-- ABC’nin [haberine](https://abcnews.go.com/Technology/wireStory/judges-england-wales-cautious-approval-ai-writing-legal-106185194) göre **İngiltere ve Galler**‘deki _yargıçlara, hukuki görüş yazarken yapay zekayı kullanma konusunda ‘ihtiyatlı’ onay verilmiş._ Yapay zekanın hukukta kullanılması, yargıçlara daha fazla zaman ve veri sağlamak için bir yol olarak görüldüğünden yargıçların daha tutarlı kararlar vermesine yardımcı olabileceğini düşünüyorlarmış. Bu nedenle İngiltere ve Galler Yüksek Mahkemesi’nin ikinci en yüksek yargıcı **Geoffrey Vos**, yargıçların yapay zekayı “**dikkatli bir şekilde**” kullanabileceğini söyledi. Ancak, **yargıçların yapay zeka tarafından üretilen her şeyden tam kişisel sorumluluk almaları gerektiğini** de vurgulamaktan geri kalmadı.
+- ABC’nin [haberine](https://abcnews.go.com/Technology/wireStory/judges-england-wales-cautious-approval-ai-writing-legal-106185194) göre **İngiltere ve Galler‘deki** _yargıçlara, hukuki görüş yazarken yapay zekayı kullanma konusunda ‘ihtiyatlı’ onay verilmiş._ Yapay zekanın hukukta kullanılması, yargıçlara daha fazla zaman ve veri sağlamak için bir yol olarak görüldüğünden yargıçların daha tutarlı kararlar vermesine yardımcı olabileceğini düşünüyorlarmış. Bu nedenle İngiltere ve Galler Yüksek Mahkemesi’nin ikinci en yüksek yargıcı **Geoffrey Vos**, yargıçların yapay zekayı “**dikkatli bir şekilde**” kullanabileceğini söyledi. Ancak, **yargıçların yapay zeka tarafından üretilen her şeyden tam kişisel sorumluluk almaları gerektiğini** de vurgulamaktan geri kalmadı.
 
 * * *
 

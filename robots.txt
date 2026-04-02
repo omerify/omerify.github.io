@@ -1,4 +1,4 @@
-User-agent: *
+# User-agent: *
 # Disallow: /
 
 Sitemap: https://blog.omerify.com/sitemap.xml

@@ -1,0 +1,63 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+     xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:wp="http://wordpress.org/export/1.2/">
+
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <description>{{ site.description | xml_escape }}</description>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <language>{{ site.lang | default: "tr" }}</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>{{ site.url }}</wp:base_site_url>
+    <wp:base_blog_url>{{ site.url }}{{ site.baseurl }}</wp:base_blog_url>
+
+    {% for post in site.posts reversed %}
+    <item>
+      <title>{{ post.title | xml_escape }}</title>
+      <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      
+      {% if post.author %}
+      <dc:creator><![CDATA[{{ post.author }}]]></dc:creator>
+      {% elsif site.author %}
+      <dc:creator><![CDATA[{{ site.author }}]]></dc:creator>
+      {% endif %}
+      
+      <guid isPermaLink="false">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
+      <description></description>
+      <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
+      <excerpt:encoded><![CDATA[{{ post.excerpt | strip_html }}]]></excerpt:encoded>
+      
+      <wp:post_id>{{ forloop.index }}</wp:post_id>
+      <wp:post_date><![CDATA[{{ post.date | date: "%Y-%m-%d %H:%M:%S" }}]]></wp:post_date>
+      <wp:post_date_gmt><![CDATA[{{ post.date | date: "%Y-%m-%d %H:%M:%S" }}]]></wp:post_date_gmt>
+      <wp:comment_status><![CDATA[open]]></wp:comment_status>
+      <wp:ping_status><![CDATA[open]]></wp:ping_status>
+      <wp:post_name><![CDATA[{{ post.slug }}]]></wp:post_name>
+      <wp:status><![CDATA[publish]]></wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type><![CDATA[post]]></wp:post_type>
+      <wp:post_password><![CDATA[]]></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+
+      {% for cat in post.categories %}
+      <category domain="category" nicename="{{ cat | slugify }}"><![CDATA[{{ cat }}]]></category>
+      {% endfor %}
+      
+      {% for tag in post.tags %}
+      <category domain="post_tag" nicename="{{ tag | slugify }}"><![CDATA[{{ tag }}]]></category>
+      {% endfor %}
+      
+    </item>
+    {% endfor %}
+  </channel>
+</rss>

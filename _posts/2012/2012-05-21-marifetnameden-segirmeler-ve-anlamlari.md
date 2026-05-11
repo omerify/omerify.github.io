@@ -25,7 +25,7 @@ cover-img: /assets/img//2012/05/erzurumlu-ibrahim-hakki-hazretleri-marifetname-k
 share-img: /assets/img//2012/05/erzurumlu-ibrahim-hakki-hazretleri-marifetname-kitap-1-1003x1024-1.jpeg
 ---
 
-Erzurumlu İbrahim Hakkı’nın Marifetname adlı eserinden vücut seğirmelerinin anlamları ve işaretleri hakkında bilgi. Baştan ayağa kadar genel uzuvların seyirmelerini haber verir.
+Erzurumlu İbrahim Hakkı’nın Marifetname adlı eserinden vücut seğirmelerinin anlamları ve işaretleri hakkında bilgi. Baştan ayağa kadar genel uzuvların seğirmelerini haber verir.
 
 Hepimizin başına gelen ve hatta bazen günlerce sürebilen **seyirmeler** vücudumuzun çeşitli yerlerinde olabiliyor. Hiç merak ettiniz mi anlamları ne olabilir. **Erzurumlu İbrahim Hakkı Hazretleri**’nin (Kuddise sirruhu) büyük eseri **Marifetname** adlı eserinden alınan aşağıdaki bilgiler her zaman lazım olabilir. Bu vesile ile Allah (celle celalühü) rızası için Ruhuna bir Fatiha-ı Şerif’i çok görmeyelim dostlar.
 

@@ -14,7 +14,7 @@ Sosyal medya platformları açık hava tımarhanesine döndüğü için aktif ku
 - **Facebook:** [facebook.com/omerify](https://facebook.com/omerify)
 - **YouTube:** [youtube.com/omerify](https://youtube.com/omerify)
 - **TikTok:** [tiktok.com/@omerify](https://tiktok.com/@omerify)
-- **Spotify Podcast:** [creators.spotify.com/pod/show/omerify](https://creators.spotify.com/pod/show/omerify)
+- **Spotify Podcast:** [spotify.com/omerify](https://creators.spotify.com/pod/show/omerify)
 - **Twitter:** [twitter.com/omerify](https://twitter.com/omerify)
 - **Tumblr:** [omerify.tumblr.com/](https://omerify.tumblr.com/)
 - **Reddit:** [reddit.com/r/omerify](https://reddit.com/r/omerify)

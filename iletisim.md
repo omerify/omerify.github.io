@@ -21,4 +21,5 @@ Sosyal medya platformları açık hava tımarhanesine döndüğü için aktif ku
 - **Twitch:** [https://twitch.tv/omerify](https://twitch.tv/omerify)
 - **Bluesky:** [https://omerify.bsky.social](https://omerify.bsky.social)
 - **Mastodon:** [https://mastodon.social/@omerify](https://mastodon.social/@omerify)
+- **Linkedin:** [https://www.linkedin.com/in/omerify/](https://www.linkedin.com/in/omerify/)
 - **Linktree:** [https://linktr.ee/omerify](https://linktr.ee/omerify)
